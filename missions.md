@@ -1,3 +1,4 @@
 # Missions
 
-1. Investigate Dr Doom plans
+* Investigate Dr Doom plans
+* Capturar a Red Skull
